@@ -1,0 +1,23 @@
+/*
+Site:
+Site URI: 
+Version: 1.0
+Author: Aymeric Gallissot
+Author URI: http://aymericgallissot.fr
+*/
+
+
+/* BASE
+-------------------------------------------------- */
+body{
+	font:normal 80% "Lucida Grande",Lucida,Verdana,sans-serif;
+	color:#333333;
+}
+
+a{
+	text-decoration:none;
+}
+
+
+/* 
+-------------------------------------------------- */
